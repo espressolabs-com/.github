@@ -18,7 +18,7 @@ We follow the Airbnb JavaScript/TypeScript Style Guide to maintain consistency a
 1. Ensure you have Node.js installed (we recommend using the LTS version)
 2. Set up TypeScript in your development environment
 3. Familiarize yourself with our coding standards:
-   - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+   - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - yep... we know it's for JS. But still.
 4. Set up VScode extension + coPilot.
 5. TODO - extensions
 
